@@ -27,6 +27,7 @@
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -129,4 +130,8 @@ If you like this project, please give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
 
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
